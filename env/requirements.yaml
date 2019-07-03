@@ -10,6 +10,9 @@ dependencies:
 - name: flight-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.7
+- name: flight-processing
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.0.8
 - name: flight-ui
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.20
